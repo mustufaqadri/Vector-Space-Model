@@ -1,0 +1,27 @@
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.exe.config
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.exe
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.pdb
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\obj\Debug\Vector_Space_Model.Form1.resources
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\obj\Debug\Vector_Space_Model.Properties.Resources.resources
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.csproj.GenerateResource.Cache
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.exe
+E:\FAST WORK\Visual C# Projects\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.pdb
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.exe.config
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.exe
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.pdb
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.exe.config
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.exe
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.pdb
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.exe
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.pdb
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\obj\Debug\Vector_Space_Model.Form1.resources
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\obj\Debug\Vector_Space_Model.Properties.Resources.resources
+E:\FAST WORK\Information Retreival Programs\Assignment no.02\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.csproj.GenerateResource.Cache
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.exe
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\bin\Debug\Vector Space Model.pdb
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\obj\Debug\Vector_Space_Model.Form1.resources
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\obj\Debug\Vector_Space_Model.Properties.Resources.resources
+E:\FAST WORK\Visual C# Projects\Backup\Vector Space Model\Vector Space Model\obj\Debug\Vector Space Model.csproj.GenerateResource.Cache
